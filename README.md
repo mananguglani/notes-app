@@ -1,1 +1,2 @@
-# notes-app use local storage
+# notes-app 
+use local storage https://mananguglani.github.io/notes-app/
